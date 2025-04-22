@@ -1,0 +1,28 @@
+{"time":"2025-04-22T15:56:50.0363743+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\PES\\CSSEM-6\\GenAI\\ChessBot\\wandb\\run-20250422_155649-pch6xdgn\\logs\\debug-core.log"}
+{"time":"2025-04-22T15:56:50.9078501+05:30","level":"INFO","msg":"created new stream","id":"pch6xdgn"}
+{"time":"2025-04-22T15:56:50.9078501+05:30","level":"INFO","msg":"stream: started","id":"pch6xdgn"}
+{"time":"2025-04-22T15:56:50.9078501+05:30","level":"INFO","msg":"sender: started","stream_id":"pch6xdgn"}
+{"time":"2025-04-22T15:56:50.9078501+05:30","level":"INFO","msg":"handler: started","stream_id":"pch6xdgn"}
+{"time":"2025-04-22T15:56:50.9078501+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"pch6xdgn"}
+{"time":"2025-04-22T15:56:51.3529064+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T15:56:52.4549784+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T15:57:24.4779129+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T15:57:26.8384528+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T15:57:34.1316257+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T15:57:34.6106392+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T16:04:04.8684434+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T16:04:05.4956629+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T16:04:45.4561422+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T16:04:49.9120501+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T16:04:57.8277587+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T16:04:57.8738109+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T16:05:02.5014101+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T16:08:01.112101+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T16:08:11.6504172+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T16:08:11.7064689+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T16:08:14.4344504+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T16:09:09.19248+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T16:09:45.5134636+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T16:09:46.4118042+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T16:10:09.8654736+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T16:10:10.2616302+05:30","level":"INFO","msg":"Pausing system monitor"}
