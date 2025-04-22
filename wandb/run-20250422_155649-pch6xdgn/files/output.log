@@ -1,7 +1,0 @@
-wandb: ERROR Find detailed error logs at: c:\PES\CSSEM-6\GenAI\ChessBot\wandb\debug-cli.krish.log
-Error: api_key not configured (no-tty). call wandb login [your_api_key]
-`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
-c:\Users\krish\AppData\Local\Programs\Python\Python312\Lib\site-packages\torch\_dynamo\eval_frame.py:745: UserWarning: torch.utils.checkpoint: the use_reentrant parameter should be passed explicitly. In version 2.5 we will raise an exception if use_reentrant is not passed. use_reentrant=False is recommended, but if you need to preserve the current default behavior, you can pass use_reentrant=True. Refer to docs for more details on the differences between the two variants.
-  return fn(*args, **kwargs)
-c:\Users\krish\AppData\Local\Programs\Python\Python312\Lib\site-packages\accelerate\utils\modeling.py:1536: UserWarning: Current model requires 16.0 bytes of buffer for offloaded layers, which seems does not fit any GPU's remaining memory. If you are experiencing a OOM later, please consider using offload_buffers=True.
-  warnings.warn(
