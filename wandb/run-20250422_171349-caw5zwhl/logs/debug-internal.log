@@ -5,3 +5,14 @@
 {"time":"2025-04-22T17:13:50.0814212+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"caw5zwhl"}
 {"time":"2025-04-22T17:13:50.0814212+05:30","level":"INFO","msg":"sender: started","stream_id":"caw5zwhl"}
 {"time":"2025-04-22T17:13:50.5353173+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T17:41:23.9385086+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T17:42:09.6004482+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T17:42:10.2355098+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T17:42:39.6859472+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T17:42:39.6956127+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T17:42:45.0645402+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T17:42:45.8455617+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T17:43:31.0428782+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T17:43:31.0817421+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-22T17:49:31.0736724+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-22T17:49:48.734807+05:30","level":"INFO","msg":"Pausing system monitor"}
