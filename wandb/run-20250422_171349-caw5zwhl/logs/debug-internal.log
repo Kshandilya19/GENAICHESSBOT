@@ -1,0 +1,7 @@
+{"time":"2025-04-22T17:13:49.5329284+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"c:\\PES\\CSSEM-6\\GenAI\\Project\\ChessBot\\wandb\\run-20250422_171349-caw5zwhl\\logs\\debug-core.log"}
+{"time":"2025-04-22T17:13:50.0808289+05:30","level":"INFO","msg":"created new stream","id":"caw5zwhl"}
+{"time":"2025-04-22T17:13:50.0808289+05:30","level":"INFO","msg":"stream: started","id":"caw5zwhl"}
+{"time":"2025-04-22T17:13:50.0814212+05:30","level":"INFO","msg":"handler: started","stream_id":"caw5zwhl"}
+{"time":"2025-04-22T17:13:50.0814212+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"caw5zwhl"}
+{"time":"2025-04-22T17:13:50.0814212+05:30","level":"INFO","msg":"sender: started","stream_id":"caw5zwhl"}
+{"time":"2025-04-22T17:13:50.5353173+05:30","level":"INFO","msg":"Starting system monitor"}
